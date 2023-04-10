@@ -67,7 +67,7 @@ theme.set_highlights = function()
 
   -- Code
   hl(0, "Comment", { fg = c.gray, bg = 'NONE' })
-  hl(0, "Variable", { fg = c.fg, bg = c.bg })
+  hl(0, "Variable", { fg = c.fg, bg = 'NONE' })
   hl(0, "String", { fg = c.blue, bg = 'NONE' })
   hl(0, "Character", { fg = c.blue, bg = 'NONE' })
   hl(0, "Number", { fg = c.fg, bg = 'NONE' })
