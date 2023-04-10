@@ -15,8 +15,8 @@ local colors = {
   info_bg = "#1e3135",
   hint_bg = "#22323f",
   reference = "#363636",
-  success_green = "#14C50B",
-  folder_blue = "#42A5F5",
+  success_green = "#99FFE4",
+  folder_blue = "#99FFE4",
 }
 
 return colors
